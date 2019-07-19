@@ -11,12 +11,13 @@
     <modules>
         <module>gmall-common</module>
         <module>gmall-mock</module>
+        <module>gmall-logger</module>
     </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.21.RELEASE</version>
+        <version>1.5.10.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
